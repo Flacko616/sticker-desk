@@ -1,0 +1,29 @@
+/* .wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 80px auto 60px;  
+  }
+.header {
+    background-color: rgb(73, 69, 61);
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    
+}
+.main {
+    background-color: rgb(138, 89, 154);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    background-color: rgb(81, 81, 193);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+   */

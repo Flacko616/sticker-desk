@@ -1,0 +1,31 @@
+.footer {
+  grid-area: footer;
+  background-color: rgba(242, 242, 242, 1);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+
+}
+.logotip {
+  display: inline-flex;
+  .add {
+    font-size: 16px;
+    opacity: 60%;
+    margin-left: 45px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Jost';
+  }
+}
+.desk {
+  font-size: 16px;
+  opacity: 60%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Jost';
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;  
+}
+

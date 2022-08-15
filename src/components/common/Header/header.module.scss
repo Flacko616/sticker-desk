@@ -1,0 +1,20 @@
+.header {
+    grid-area: header;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.button {
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+.text {
+    font-weight: 400;
+    font-family: 'Jost';
+    font-size: 14px;
+}

@@ -1,0 +1,37 @@
+.page {
+    display: flex;
+    justify-content: space-evenly;
+    // height: 1080px;
+    margin-top: 40px;
+}
+.text{
+    padding-right: 200px;
+    margin-top: 60px;
+    color: black ;
+    text-underline-offset: none;
+}
+.head {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    font-family: 'Jost';
+    
+}
+.error{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Jost';
+}
+.par {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: 'Jost';
+    
+}
+.img {
+    height: 412px;
+    width: 466px;
+   
+}

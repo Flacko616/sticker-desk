@@ -1,0 +1,151 @@
+.container {
+    font-family: 'Jost'; 
+    margin-top: -100px;
+}
+.profile {
+    display: flex;
+    margin-top: 32px;
+    .block {
+        width: 40px;
+        height: 40px;
+        background-color: #2A2F3714;
+        font-family: Roboto Slab;
+        font-weight: 700;
+        font-size: 24px;
+        padding-left: 9px;
+        opacity: 80%;
+        border: 1px solid #2A2F3714 ;
+    }
+    .text {
+        font-size: 16px;
+        font-weight: 700;
+        margin-left: 16px;
+    
+    }
+    .par {
+        font-size: 12px;
+        font-weight: 400;
+        opacity: 70%;
+        margin-left: 16px;
+    }
+}
+
+
+.buttons {
+    margin-top: 24px;   
+}
+.add {
+    width: 260px;
+    height: 72px;
+    padding-top: 24px;
+    background-color: #ffffff;
+    border: 1px solid transparent ;
+    border-top: solid #2A2F3714;
+    border-bottom: solid #2A2F3714;
+    display: flex;
+    justify-content:space-evenly;
+}
+.exit {
+    width: 260px;
+    height: 72px;
+    padding-top: 24px;
+    background-color: #ffffff;
+    border: 1px solid transparent ;
+    border-top: solid #2A2F3714;
+    border-bottom: solid #2A2F3714;
+    display: flex;
+    justify-content: space-around
+}
+
+.all {
+   display: flex;
+    .one {
+        font-size: 24px;
+        font-weight: 700;
+    }
+    .sec {
+        font-size: 14px;
+        font-weight: 400;
+        opacity: 40%;        
+    }
+    .plus {
+        width: 130px;
+        height: 40px;
+        background-color: #4877F2;
+        color:#fff;
+        border-radius: 4px;
+        border: none;
+        padding-top: 8px;
+        margin-left: 580px;
+      
+    }
+}
+.line {
+    display: flex;
+}
+.searcher {
+    width: 420px;
+    height: 40px;
+    border: none;
+}
+.filter {
+    width: 153px;
+    height: 40px;
+    margin-left: 12px;
+    background-color: #2A2F3714;
+    font-size: 14px;
+    font-weight: 500;
+    justify-content: space-evenly;
+    display: flex;
+    padding-top: 8px;
+    border: none;
+}
+.scroll {
+    display: flex;
+    align-items: start;
+    padding-top: 8px;
+    margin-left: 126px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    .strelki {
+        background-color: #fff;
+        border: none;
+        padding-left: 25px;
+    }
+}
+.wrap {
+    .categori {
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 16px;
+        opacity: 40%;   
+        margin-top: 20px; 
+    }
+    .name {
+     font-size: 14px;
+     font-weight: 700;
+     line-height: 24px;
+     margin-top: 54px;
+    }
+    .also {
+     
+     font-family: Jost;
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 24px;
+     margin-top: 54px;
+    }
+ }
+
+ .blockone {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    .menu {
+        background-color:#ffffff;
+        border: none;
+        cursor: pointer;
+    }
+ }

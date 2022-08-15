@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+
+    font-size: 22px;
+    user-select: none;
+
+}
+    
+// .checkmark {
+//     position: absolute;
+//     height: 25px;
+//     width: 25px;
+//     background-color: #eee;
+// }
+.text {
+    font-size: 12px;
+    font-family: 'Jost';
+    font-weight: 400;
+   
+}
+.link {
+    font-size: 12px;
+    font-family: 'Jost';
+    font-weight: 400;
+    cursor: pointer;
+}

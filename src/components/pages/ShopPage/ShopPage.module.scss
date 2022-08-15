@@ -1,0 +1,125 @@
+.AddDesk{
+    align-items: center;
+    justify-content: space-evenly;
+    a {
+        text-decoration: none;
+        color: black
+    }
+    
+}
+.head{
+    font-size: 48px;
+    font-family: 'Jost';
+    font-weight: 700;
+    color: #1d1d1d;
+    line-height: 56px;
+    font-style: normal;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+}
+.par{
+    font-size: 16px;
+    color: #424242;
+    margin-bottom: 0;
+    font-family: 'Jost';
+    line-height: 24px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+.img {
+    width:260px;
+    height: 240px;
+    margin-left: 190px;
+    margin-top: 140px;
+   
+}
+
+.view {
+    font-family: Jost;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-top: 80px;    
+}
+.navigate{
+    display: flex;
+    margin-top: 60px;
+    
+}
+.all {
+    height: 40px;
+    width: 119px;
+    background-color: #FFAC28;
+    font-family: 'Jost';
+    border-radius: 35px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    border: none;
+    padding-top: 8px;
+    cursor: pointer;
+}
+.auto {
+    height: 40px;
+    width: 133px;
+    border-radius: 35px;
+    font-family: 'Jost';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #4877F2;
+    background-color: #ffffff;
+    border: 1px solid #4877F2 ;
+    margin-left: 40px;
+    padding-top: 8px;
+}
+.also {
+    margin-left: 40px;
+    width: 83px;
+    height: 25px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-family: 'Jost';
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 8px;   
+}
+.also2 {
+    margin-left: 40px;
+    width: 160px;
+    height: 25px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-family: 'Jost';
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 8px; 
+}
+.download {
+    display: flex;
+    justify-content: center;
+}
+.knopka {
+    width: 242px;
+    height: 48px;
+    border: 1px solid #4877F2;
+    border-radius: 4px;
+    background-color: #ffffff;
+    font-size: 16px;
+    color: #4877F2;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.buttontext {
+    padding-top: 12px;
+    padding-left: 8px;
+}
